@@ -1,2 +1,2 @@
 # Physics-Code
-Code I did in physics
+Bits and pieces of things I did for physics
